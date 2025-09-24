@@ -2,8 +2,8 @@
 <h1 align="center">🚀 Welcome to My GitHub World!</h1>
 
 <p align="center">
-  <a href="https://github.com/k-r-abhishek" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Abhishek+%F0%9F%91%8B;Software+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Passionate+about+DSA%2C+Web+Dev%2C+and+Tech+%F0%9F%92%BB;Always+learning+new+technologies!+%F0%9F%92%AA" />
+  <a href="https://github.com/NisuBharti32" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Nisu+%F0%9F%91%8B;Software+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Passionate+about+DSA%2C+Web+Dev%2C+and+Tech+%F0%9F%92%BB;Always+learning+new+technologies!+%F0%9F%92%AA" />
   </a>
 </p>
 
@@ -23,16 +23,16 @@
 
 ## 🎬 Live Developer Stats
 <p align="center">
-  <a href="https://github.com/k-r-abhishek">
+  <a href="https://github.com/NisuBharti32">
     <div align="center">
-      <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-r-abhishek&theme=algolia" />
-      <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k-r-abhishek&theme=algolia" />
-      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k-r-abhishek&theme=algolia" />
-      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k-r-abhishek&theme=algolia" />
-      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k-r-abhishek&theme=algolia&utcOffset=8" />
-      <img height="167em" src="https://github-readme-stats.vercel.app/api?username=k-r-abhishek&show_icons=true&theme=algolia&hide_border=true&border_radius=7&include_all_commits=false&count_private=false" />
-<!--       <img height="167em" src="https://github-readme-streak-stats.herokuapp.com/?user=k-r-abhishek&theme=algolia" /> -->
-      <img height="167em" src="https://github-readme-streak-stats.herokuapp.com?user=k-r-abhishek&theme=algolia&hide_border=true&border_radius=7&card_width=430&card_height=full" />
+      <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NisuBharti32&theme=algolia" />
+      <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NisuBharti32&theme=algolia" />
+      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NisuBharti32&theme=algolia" />
+      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NisuBharti32&theme=algolia" />
+      <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NisuBharti32&theme=algolia&utcOffset=8" />
+      <img height="167em" src="https://github-readme-stats.vercel.app/api?username=NisuBharti32&show_icons=true&theme=algolia&hide_border=true&border_radius=7&include_all_commits=false&count_private=false" />
+<!--       <img height="167em" src="https://github-readme-streak-stats.herokuapp.com/?user=NisuBharti32&theme=algolia" /> -->
+      <img height="167em" src="https://github-readme-streak-stats.herokuapp.com?user=NisuBharti32&theme=algolia&hide_border=true&border_radius=7&card_width=430&card_height=full" />
     </div>
   </a>
 </p>
@@ -45,11 +45,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/k-r-abhishek">
+  <a href="https://github.com/NisuBharti32">
     <div align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-r-abhishek&theme=chartreuse-dark" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-r-abhishek&layout=compact&theme=chartreuse-dark&langs_count=8" />
-      <img height="167em" src="https://github-contributor-stats.vercel.app/api?username=k-r-abhishek&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=NisuBharti32&theme=chartreuse-dark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisuBharti32&layout=compact&theme=chartreuse-dark&langs_count=8" />
+      <img height="167em" src="https://github-contributor-stats.vercel.app/api?username=NisuBharti32&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" />
     </div>
   </a>
 </p>
@@ -57,11 +57,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/k-r-abhishek">
-    <img src="https://komarev.com/ghpvc/?username=k-r-abhishek&label=Profile%20Views&color=green&style=flat-square" /></a>
+  <a href="https://github.com/NisuBharti32">
+    <img src="https://komarev.com/ghpvc/?username=NisuBharti32&label=Profile%20Views&color=green&style=flat-square" /></a>
   &nbsp;
-  <a href="https://github.com/k-r-abhishek">
-    <img src="https://img.shields.io/github/followers/k-r-abhishek?label=Followers&color=yellow&style=flat-square" /></a>
+  <a href="https://github.com/NisuBharti32">
+    <img src="https://img.shields.io/github/followers/NisuBharti32?label=Followers&color=yellow&style=flat-square" /></a>
 </p>
 
 ---
@@ -109,14 +109,14 @@
 
 📌 **Trophies & Achievements**  
 <p align="center">
-  <a href="https://github.com/k-r-abhishek" target="_blank">
-    <img src="https://github-trophies.vercel.app/?username=k-r-abhishek&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <a href="https://github.com/NisuBharti32" target="_blank">
+    <img src="https://github-trophies.vercel.app/?username=NisuBharti32&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
   </a>
 </p>
 
 📌 **Random Dev Quote**  
 <p align="center">
-  <a href="https://github.com/k-r-abhishek" target="_blank">
+  <a href="https://github.com/NisuBharti32" target="_blank">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
   </a>
 </p>
@@ -127,46 +127,46 @@
 
 ### 🔗 Professional & Social Media  
 <p align="center">
-  <a href="https://linkedin.com/in/k-r-abhishek" target="_blank">
+  <a href="https://linkedin.com/in/NisuBharti32" target="_blank">
     <img src="icons/social/linkedin.png" alt="LinkedIn" width="50" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:abhishekkrcd@gmail.com" target="_blank">
+  <a href="mailto:nishusinghb1122@gmail.com" target="_blank">
     <img src="icons/social/gmail.png" alt="Gmail" width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/KrAbhishekz" target="_blank">
+  <a href="https://www.facebook.com/......." target="_blank">
     <img src="icons/social/facebook.png" alt="Facebook" width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
     <img src="icons/social/instagram.png" alt="Instagram" width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/K_r_Abhishek" target="_blank">
+  <a href="https://twitter.com/......." target="_blank">
     <img src="icons/social/twitter.png" alt="Twitter" width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/kr_abhishek">
+  <a href="https://discordapp.com/users/.......">
     <img src="icons/social/discord.png" alt="discord" width="50" /></a>
 </p>
 
 ### 🖥 Tech & Coding Profiles  
 <p align="center">
-  <a href="https://github.com/k-r-abhishek" target="_blank">
+  <a href="https://github.com/NisuBharti32" target="_blank">
     <img src="icons/coding/github.png" alt="Github" width="50" /></a>
   &nbsp;
-  <a href="https://leetcode.com/K_r_Abhishek" target="_blank">
+  <a href="https://leetcode.com/Nisubharti123" target="_blank">
     <img src="icons/coding/leetcode.png" alt="Leetcode" width="50" /></a>
   &nbsp;
-  <a href="https://www.codechef.com/users/k_r_abhishek" target="_blank">
+  <a href="https://www.codechef.com/users/......." target="_blank">
     <img src="icons/coding/codechef.png" alt="CodeChef" width="50" /></a>
   &nbsp;
   <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
     <img src="icons/coding/codeforces.png" alt="Codeforces" width="50" /></a>
   &nbsp;
-  <a href="https://www.codingninjas.com/codestudio/profile/Kr_Abhishek" target="_blank">
+  <a href="https://www.codingninjas.com/codestudio/profile/......." target="_blank">
     <img src="icons/coding/codestudio.png" alt="Codestudio" width="50" /></a>
   &nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/profile" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/nishusinx084/profile" target="_blank">
     <img src="icons/coding/gfg.png" alt="GFG" width="50" /></a>
   &nbsp;
-  <a href="https://www.hackerrank.com/K_r_Abhishek" target="_blank">
+  <a href="https://www.hackerrank.com/......." target="_blank">
     <img src="icons/coding/hackerrank.png" alt="Hackerrank" width="50" /></a>
 </p>
 
