@@ -127,7 +127,7 @@
 
 ### 🔗 Professional & Social Media  
 <p align="center">
-  <a href="https://linkedin.com/in/NisuBharti32" target="_blank">
+  <a href="https://linkedin.com/in/nisu-bharti" target="_blank">
     <img src="icons/social/linkedin.png" alt="LinkedIn" width="50" /></a>
   &nbsp;&nbsp;
   <a href="mailto:nishusinghb1122@gmail.com" target="_blank">
