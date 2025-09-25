@@ -136,7 +136,7 @@
   <a href="https://www.facebook.com/......." target="_blank">
     <img src="icons/social/facebook.png" alt="Facebook" width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <a href="https://www.instagram.com/nishusingh2134" target="_blank">
     <img src="icons/social/instagram.png" alt="Instagram" width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/......." target="_blank">
